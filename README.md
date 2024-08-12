@@ -2,10 +2,6 @@
 
 Detail-oriented web developer with extensive experience in front-end and back-end technologies. I have a deep understanding of HTML, CSS, JavaScript, TypeScript, and a range of modern frameworks and libraries. Passionate about building dynamic, user-centric applications and continuously learning to stay ahead in the fast-evolving world of web development.
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Logo" width="100">
-</p>
-
 ## 🚀 About Me
 
 - 🌐 **Website:** [Your Website](#)
