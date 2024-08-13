@@ -4,8 +4,8 @@ Detail-oriented web developer with extensive experience in front-end and back-en
 
 ## 🚀 About Me
 
-- 🌐 **Website:** [Your Website](#)
-- 💼 **LinkedIn:** [Ferdous Ahmed](https://www.linkedin.com/in/ferdous-ahmed)
+- 🌐 **Website:** [Your Website](https://reactive-ferdous.netlify.app)
+- 💼 **LinkedIn:** [Ferdous Ahmed](https://www.linkedin.com/in/ferdous-ahmed-6535b0202)
 - 📫 **Email:** himibaba10@gmail.com
 
 ## 🛠️ Technologies & Tools
@@ -50,4 +50,4 @@ I am open to collaborations, freelance opportunities, and discussions. Feel free
 
 ---
 
-*This README was generated with ❤️ by Ferdous Ahmed.*
+*This README was written with ❤️ by Ferdous Ahmed.*
