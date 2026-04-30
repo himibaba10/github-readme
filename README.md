@@ -27,8 +27,8 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ferdous-ahmed&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Ferdous's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferdous-ahmed&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="41.5%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=himibaba10&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Ferdous's Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himibaba10&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="41.5%" />
 </p>
 
 ---
